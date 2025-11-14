@@ -71,7 +71,7 @@
     "superjson": "^2.2.1",
     "tailwind-merge": "^2.2.2",
     "tailwindcss-animate": "^1.0.7",
-    "typed-openapi": "^0.4.1",
+    "typed-openapi": "^0.10.1",
     "usehooks-ts": "^3.1.0",
     "zod": "^3.23.7"
   },
